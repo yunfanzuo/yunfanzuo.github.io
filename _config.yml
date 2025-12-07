@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yunfan Zuo - HomePage"
-description              : "Think Different."
+description              : ""
 repository               : "yunfanzuo/yunfanzuo.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yunfan Zuo"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Wuhan, Hubei"
+  bio              : "Central China Normal University"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=33Po2csAAAAJ&hl=zh-CN"
