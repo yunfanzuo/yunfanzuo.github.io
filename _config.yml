@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yunfan Zuo - HomePage"
+title                    : "Yunfan Zuo"
 description              : ""
 repository               : "yunfanzuo/yunfanzuo.github.io"
 google_scholar_stats_use_cdn : false
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=33Po2csAAAAJ&hl=zh-CN"
   email            : "zuoyunfan@mails.ccnu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Yunfan-Zuo-2?ev=hdr_xprf"
+  researchgate     : # "https://www.researchgate.net/profile/Yunfan-Zuo-2?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
