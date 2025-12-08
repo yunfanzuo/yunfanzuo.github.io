@@ -49,7 +49,7 @@ Selected Publications:
 
 AI Applications Intern | Advisor: Huawei Kong
 - Led full-stack automation of podcast production.
-– Prompted GPT-4o with symbolic prosody tags for lifelike TTS.
-– Paraformer & Gemini 2.5 Pro tandem for word-level Chinese subtitle alignment.
+- Prompted GPT-4o with symbolic prosody tags for lifelike TTS.
+- Paraformer & Gemini 2.5 Pro tandem for word-level Chinese subtitle alignment.
 
 
