@@ -21,10 +21,10 @@ I am currently pursuing a Ph.D. in Computer Science at Central China Normal Univ
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉 I join NERC-EBD, CCNU to pursue the Ph.D. degree under the supervision of Prof. Xiaoliang Zhu!
-- *2025.11*: &nbsp;🎉 One paper is accepted by AERA annual meeting.
+- *2025.11*: &nbsp;🎉 I will join NERC-EBD, CCNU to pursue the Ph.D. degree under the supervision of Prof. Xiaoliang Zhu, in Summer 2026!
+- *2025.11*: &nbsp;🎉 One paper is accepted by AERA annual meeting!
 - *2025.04*: &nbsp;🎉 I will join BeFriends as AI Applications Intern, focusing on GenAI-related topics, in Summer 2025!
-- *2024.11*: &nbsp;🎉 One paper is accepted by EITT @ Macau.
+- *2024.11*: &nbsp;🎉 One paper is accepted by EITT @ Macau!
 - *2023.09*: &nbsp;🎉 I join Hubei Key Laboratory of Digital Education, CCNU to pursue the Master degree under the supervision of Prof. Qingtang Liu!
 
 # 📝 Publications 
@@ -48,8 +48,14 @@ Selected Publications:
 #### Algorithm Department (BeFriends)
 
 AI Applications Intern | Advisor: Huawei Kong
-- Led full-stack automation of podcast production.
+- Research Topic: Workflow of Automation Podcast Generation.
 - Prompted GPT-4o with symbolic prosody tags for lifelike TTS.
 - Paraformer & Gemini 2.5 Pro tandem for word-level Chinese subtitle alignment.
+
+#### Hubei Key Laboratory of Digital Education (CCNU)
+
+Master in Artificial Intelligence | Advisor: Prof. Qingtang Liu
+- Research Topic: LLM in Education, RAG.
+- Publication Records: AERA x 1, EITT x 1, ICET x 1.
 
 
