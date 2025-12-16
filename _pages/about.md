@@ -38,7 +38,7 @@ Selected Publications:
 # 🎖 Honors and Awards
 
 - *2025* Outstanding Graduate Student Award @ CCNU (Rate < 5%)
-- *2025* Academic Excellence Scholarship @ CCNU, Top-tier
+- *2025* Academic Excellence Scholarship @ CCNU, First-class
 - *2024* Challenge Cup Special Competition, National Silver
 - *2019* ACM-ICPC Asia Regional Contest, Bronze Medal
 - *2019* ACM-ICPC National Invitational Contest, Bronze Medal
