@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+*A time will come to ride the wind and cleave the waves, I'll set my cloud-white sail and cross the sea which raves.*
+
 I am currently pursuing a Ph.D. in Computer Science at Central China Normal University(CCNU), supervised by Prof. Xiaoliang Zhu. Previously, I completed my Master's degree in Artificial Intelligence under the supervision of Prof. Qingtang Liu at CCNU.
 
 
